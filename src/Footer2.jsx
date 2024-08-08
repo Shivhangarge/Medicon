@@ -67,7 +67,8 @@ const Footer2 = () => {
                   <a >How It Works</a>
                 </li>
                 <li>
-                  <a >Contact Us</a>
+                 
+                  <a href="/contact">contact Us</a>
                 </li>
                 <li>
                   <a >Blog</a>
@@ -117,9 +118,23 @@ const Footer2 = () => {
       </div>
     </div>
   </div>
+
+
+
+  
 </footer>
 
 )
 }
 
 export default Footer2;
+
+
+
+
+<div className="footer-icons">
+                            <a href="" target="_blank"><i class="fa-brands fa-facebook"></i></a>
+                            <a href="" target="_blank"><i class="fa-brands fa-twitter"></i></a>                                                           
+                            <a href="https://www.instagram.com/enrouting_careers/" target="_blank"><i class="fa-brands fa-instragram"></i></a>
+                            <a href="" target="_blank"><i class="fa-brands fa-linkedin-li"></i></a>     
+                            </div>
